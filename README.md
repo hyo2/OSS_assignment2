@@ -50,7 +50,11 @@
   |`-l` 또는 `-L`|지원하는 signal들의 이름 출력|
   |`-s sig`|이때 SIG는 signal 이름 ex) `-s KILL [PID]` : 강제종료 |
   |`-n sig`|이때 SIG는 signal number ex) `-n -9 [PID]` : 강제종료 |
-
+ - signal name 목록(`kill -l` 실행 결과)
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/70335241/171931967-db65c82c-2e16-477a-9447-c3fe6f9aa995.png"/>
+ </p>
+ 
 <br></br>
 ***
 ## 📌 vim 에디터
